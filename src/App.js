@@ -3,7 +3,7 @@ import data from './data';
 
 function App() {
   return (
-    <div className="grid-container">
+        <div className="grid-container">
         <header className="row">
             <div>
                 <a className="brand" href="/">MeShop</a>
