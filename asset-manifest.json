@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/meshop/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/meshop/static/js/main.b1ee21a7.chunk.js",
+    "main.js.map": "/meshop/static/js/main.b1ee21a7.chunk.js.map",
+    "runtime-main.js": "/meshop/static/js/runtime-main.9a9553cd.js",
+    "runtime-main.js.map": "/meshop/static/js/runtime-main.9a9553cd.js.map",
+    "static/js/2.83593009.chunk.js": "/meshop/static/js/2.83593009.chunk.js",
+    "static/js/2.83593009.chunk.js.map": "/meshop/static/js/2.83593009.chunk.js.map",
+    "static/js/3.51a15f1c.chunk.js": "/meshop/static/js/3.51a15f1c.chunk.js",
+    "static/js/3.51a15f1c.chunk.js.map": "/meshop/static/js/3.51a15f1c.chunk.js.map",
+    "index.html": "/meshop/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/meshop/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.83593009.chunk.js.LICENSE.txt": "/meshop/static/js/2.83593009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a9553cd.js",
+    "static/js/2.83593009.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b1ee21a7.chunk.js"
+  ]
+}
