@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/meshop/static/css/main.18503d51.chunk.css",
-    "main.js": "/meshop/static/js/main.729d9b24.chunk.js",
-    "main.js.map": "/meshop/static/js/main.729d9b24.chunk.js.map",
+    "main.js": "/meshop/static/js/main.b95d1ebd.chunk.js",
+    "main.js.map": "/meshop/static/js/main.b95d1ebd.chunk.js.map",
     "runtime-main.js": "/meshop/static/js/runtime-main.9d16ca30.js",
     "runtime-main.js.map": "/meshop/static/js/runtime-main.9d16ca30.js.map",
     "static/js/2.9e8bacfd.chunk.js": "/meshop/static/js/2.9e8bacfd.chunk.js",
@@ -11,12 +11,18 @@
     "static/js/3.38be35a7.chunk.js.map": "/meshop/static/js/3.38be35a7.chunk.js.map",
     "index.html": "/meshop/index.html",
     "static/css/main.18503d51.chunk.css.map": "/meshop/static/css/main.18503d51.chunk.css.map",
-    "static/js/2.9e8bacfd.chunk.js.LICENSE.txt": "/meshop/static/js/2.9e8bacfd.chunk.js.LICENSE.txt"
+    "static/js/2.9e8bacfd.chunk.js.LICENSE.txt": "/meshop/static/js/2.9e8bacfd.chunk.js.LICENSE.txt",
+    "static/media/p1.5718bc1c.jpg": "/meshop/static/media/p1.5718bc1c.jpg",
+    "static/media/p2.3c78bc38.jpg": "/meshop/static/media/p2.3c78bc38.jpg",
+    "static/media/p3.fa99485b.jpg": "/meshop/static/media/p3.fa99485b.jpg",
+    "static/media/p4.297a0938.jpg": "/meshop/static/media/p4.297a0938.jpg",
+    "static/media/p5.db86acaa.jpg": "/meshop/static/media/p5.db86acaa.jpg",
+    "static/media/p6.394c47f2.jpg": "/meshop/static/media/p6.394c47f2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9d16ca30.js",
     "static/js/2.9e8bacfd.chunk.js",
     "static/css/main.18503d51.chunk.css",
-    "static/js/main.729d9b24.chunk.js"
+    "static/js/main.b95d1ebd.chunk.js"
   ]
 }
